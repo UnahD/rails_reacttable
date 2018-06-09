@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# rails_reacttable
+Repository to study RoR with react table
